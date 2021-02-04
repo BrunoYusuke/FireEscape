@@ -1,0 +1,26 @@
+var class_frying_pan_interaction =
+[
+    [ "bicarbonatoInvisivel", "class_frying_pan_interaction.html#a73b934c40e7822f28bb0d4b93bb5b09d", null ],
+    [ "canecaInvisivel", "class_frying_pan_interaction.html#afec667698d1398600114090801353a54", null ],
+    [ "ceiling", "class_frying_pan_interaction.html#adfa8c1d87f6ca2bfe618fa7af7dd55f5", null ],
+    [ "clear", "class_frying_pan_interaction.html#a814406474df3a332a27f958c22916c7e", null ],
+    [ "cup", "class_frying_pan_interaction.html#a3947b3e6696defcec208d28329bd2977", null ],
+    [ "currentFireLevel", "class_frying_pan_interaction.html#a45bd7c81b6e9eef2f24287493c7e9790", null ],
+    [ "currentTime", "class_frying_pan_interaction.html#aaefced4cb681039c1e3f52c4c199d81a", null ],
+    [ "extintorAInvisivel", "class_frying_pan_interaction.html#a4e46dba0d549eafc2f42a5b5ab1d39da", null ],
+    [ "extintorKInvisivel", "class_frying_pan_interaction.html#a820425091477b4f63ec9010b7c5de92f", null ],
+    [ "fire", "class_frying_pan_interaction.html#ab3b4af0e2b851f51d6f15fe142bf4649", null ],
+    [ "fryingPan", "class_frying_pan_interaction.html#aa55c7bd6fcf95164060a3bc549755b31", null ],
+    [ "highFire", "class_frying_pan_interaction.html#ace18ed069febf3f9b8a816957a07ff2b", null ],
+    [ "itemHandleScript", "class_frying_pan_interaction.html#a17ee56d8a083df6285d1aaeaf886428d", null ],
+    [ "levelChanger", "class_frying_pan_interaction.html#ae182beb53a0c09e5bf963207e8c58498", null ],
+    [ "lid", "class_frying_pan_interaction.html#a40479ca5ad55f8c428abd65d641abd24", null ],
+    [ "lowFire", "class_frying_pan_interaction.html#a388daf7acbb5dfcd15c95d6de231dc86", null ],
+    [ "mediumFire", "class_frying_pan_interaction.html#a51a66e2fa8b20861480637a9831031d0", null ],
+    [ "objectSpawn", "class_frying_pan_interaction.html#a4ac4e947249b5a3f736fc3c4cb11821b", null ],
+    [ "smoke", "class_frying_pan_interaction.html#a35531dd833d05039d181902b16920082", null ],
+    [ "state", "class_frying_pan_interaction.html#a670fd458671ed91bbb0cc720fe005dc3", null ],
+    [ "tampaInvisivel", "class_frying_pan_interaction.html#a182a173257dd4b97d4dcf8c44202cdd7", null ],
+    [ "timeUntilFireLevels", "class_frying_pan_interaction.html#ab819ad579bb9ea72f24209dbc6514d45", null ],
+    [ "timeUntilGameOver", "class_frying_pan_interaction.html#a272328de2191870ce1c44d219d299a15", null ]
+];
