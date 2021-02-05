@@ -54,13 +54,13 @@ OBS: **Caso seja imprático de executar o simulador em dispositivo móvel. Opte 
 6. No dispositivo, utilizar algum 'explorador de arquivos' ou 'gerenciador de arquivos' e localizar o arquivo 'Fireescape_android.apk' dentro do dispositivo móvel.
 7. Instalar ou Abrir arquivo via 'gerenciador de arquivos'.
 8. Um aviso será notificado, avisando que o pacote a ser executado é de fonte desconhecida. Dependendo do dispositivo, poderá ser necessário realizar os passos a seguir:
-8.1. Caso haja uma opção para executar o pacote apesar do aviso. Execute o pacote.
-8.1.1. Um icone do simulador chamado 'ProjectVR' deve aparecer na tela home do dispositivo. Abra-o e o simulador executará.
+  - Caso haja uma opção para executar o pacote apesar do aviso. Execute o pacote.
+    - Um icone do simulador chamado 'ProjectVR' deve aparecer na tela home do dispositivo. Abra-o e o simulador executará.
 
-8.2. Caso o sistema bloqueie a instalação de pacotes por fontes desconhecidas. Vá até as configurações do dispositivo e busque por alguma opção que bloqueie instalação de 'apk' por fontes externas ou desconhecidas. Tente procurar pela palavra chave 'apk' na barra de pesquisa em configurações.
-8.2.1. Habilite a instalação de 'apk' de fontes desconhecidas ou externas.
-8.2.2. Repita o passo 6 e 7. Permita da instalação do pacote.
-8.2.3. Um icone do simulador chamado 'ProjectVR' deve aparecer na tela home do dispositivo. Abra-o e o simulador executará.
+  - Caso o sistema bloqueie a instalação de pacotes por fontes desconhecidas. Vá até as configurações do dispositivo e busque por alguma opção que bloqueie instalação de 'apk' por fontes externas ou desconhecidas. Tente procurar pela palavra chave 'apk' na barra de pesquisa em configurações.
+    - Habilite a instalação de 'apk' de fontes desconhecidas ou externas.
+    - Repita o passo 6 e 7. Permita da instalação do pacote.
+    - Um icone do simulador chamado 'ProjectVR' deve aparecer na tela home do dispositivo. Abra-o e o simulador executará.
 
 ## Considerações Importantes
 
