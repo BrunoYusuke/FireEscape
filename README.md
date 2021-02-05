@@ -20,7 +20,7 @@ Executável Windows: [LINK](https://github.com/BrunoYusuke/FireEscape/tree/main/
 
 Instalador Android: [LINK](https://github.com/BrunoYusuke/FireEscape/tree/main/FireEscape_Android_Build)
 
-## Manual do Usuário
+# Manual do Usuário
 
 Escrito para sanar dúvidas pertinentes ao projeto.
 
