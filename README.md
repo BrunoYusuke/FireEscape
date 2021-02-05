@@ -67,3 +67,14 @@ OBS: **Caso seja imprático de executar o simulador em dispositivo móvel. Opte 
 1. Optou-se por gerar duas builds do projeto, pelo fato da instalação do simulador em ambiente Android podendo não ser trivial. No entanto, não existem diferenças significativas entre ambas aplicações de ambientes diferentes. Uma diferença a ser notada seria a movimentação da visão na versão Windows, que ao invés de utilizar um smartphone, utiliza-se o Mouse.
 
 2. Como mencionado no relatório, não é obrigatório o uso de um óculos de realidade aumentada caso a versão executada seja Android.
+
+## Controles 
+
+1. Como Navegar:
+  - A navegação pela cena é realizada pelas setas flutuantes espalhadas pelo cenário. Basta focar a câmera na seta e em instantes ocorrerá a locomoção para aquele espaço.
+
+2. Pegar um objeto:
+  - Para ter posse de algum objeto, basta focar a câmera no objeto. Um som indicará que o objeto está visualmente em suas mãos. Para soltar o objeto, basta um toque na tela do smartphone ou um clique.
+  
+3. Interação entre objetos em chama:
+  - Ao ter posse de algum objeto, caso exista alguma interação do objeto em mãos com algum objeto que represente perigo, basta soltar o utensílio próximo ao objeto de risco.
