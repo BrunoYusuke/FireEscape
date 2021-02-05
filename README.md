@@ -68,6 +68,8 @@ OBS: **Caso seja imprático de executar o simulador em dispositivo móvel. Opte 
 
 2. Como mencionado no relatório, não é obrigatório o uso de um óculos de realidade aumentada caso a versão executada seja Android.
 
+3. Esta versão do simulador conta apenas com um cenário doméstico.
+
 ## Controles 
 
 1. Como Navegar:
