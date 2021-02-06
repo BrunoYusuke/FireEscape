@@ -6,7 +6,7 @@ Builds Para versões Windows e mobile Android disponíveis.
 
 ## Documentação
 
-Avaliação do Orientador: LINK
+Ficha de Avaliação: [LINK](https://github.com/BrunoYusuke/FireEscape/blob/main/Ficha%20de%20avalia%C3%A7%C3%A3o%20-%20Bruno.pdf)
 
 Relatório: [LINK](https://github.com/BrunoYusuke/FireEscape/blob/main/Projeto%20Final%20de%20Programa%C3%A7%C3%A3o%20-%20Documenta%C3%A7%C3%A3o.pdf)
 
